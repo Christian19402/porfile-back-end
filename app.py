@@ -37,6 +37,7 @@ def create_app():
         "https://portfolio-carlos-martin.vercel.app",
         "https://portfolio-carlosmartin.vercel.app",  # Por si el dominio cambia sin guion
          "https://prueba-porfile-h1bbx1cij-project-christian.vercel.app", 
+        "https://prueba-porfile.vercel.app",
         "http://localhost:3000",
     }
     
